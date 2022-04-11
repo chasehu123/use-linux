@@ -197,6 +197,7 @@ di tmux
 
 
 ```bash
+# ~/.tmux.conf
 # https://www.ruanyifeng.com/blog/2019/10/tmux.html
 
 # tmux ls \ Ctrl+b+s
@@ -241,6 +242,7 @@ colorscheme desert
 ## Nvim
 
 ```bash
+# install
 di neovim
 ```
 
@@ -249,6 +251,7 @@ di neovim
 ## Node
 
 ```bash
+# install
 di nodejs
 ```
 
